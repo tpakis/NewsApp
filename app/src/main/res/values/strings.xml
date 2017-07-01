@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="not_found">There were no results to show</string>
+    <string name="no_new">Nothing new to show</string>
+    <string name="swipe">Swipe down to refresh</string>
+    <string name="not_connected">Please make sure you have internet connection</string>
+
+</resources>
